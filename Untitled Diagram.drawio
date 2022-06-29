@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T15:06:15.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VDp3gnGTgcfXUz8V5tZw" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T15:11:24.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5gqzJw2zvf1w8ThQ2mxo" version="20.0.4" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="simple gitflow">
     <mxGraphModel dx="2079" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
           <mxGeometry x="492.5" y="245" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9hBKPDzoitwpIBdzFDQ7-35" value="ma-feature-branch" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" parent="1" vertex="1">
-          <mxGeometry x="97.5" y="250" width="240" height="20" as="geometry" />
+          <mxGeometry x="10" y="250" width="240" height="20" as="geometry" />
         </mxCell>
         <UserObject label="&lt;a href=&quot;https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow&quot;&gt;https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow&lt;/a&gt;" link="https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow" id="9hBKPDzoitwpIBdzFDQ7-45">
           <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -84,6 +84,35 @@
             <mxGeometry x="430.62" y="90" width="11.63" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="2QYpI64ZlHksA5h-c_hX-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;plain-blue;endArrow=none;endFill=0;strokeWidth=4;strokeColor=#000000;" edge="1" parent="1" target="2QYpI64ZlHksA5h-c_hX-3">
+          <mxGeometry x="304.5" y="330" as="geometry">
+            <mxPoint x="290" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2QYpI64ZlHksA5h-c_hX-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;strokeColor=#000000;fillColor=#FF66FF;" vertex="1" parent="1">
+          <mxGeometry x="610" y="315" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2QYpI64ZlHksA5h-c_hX-4" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2QYpI64ZlHksA5h-c_hX-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="330" as="sourcePoint" />
+            <mxPoint x="880" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2QYpI64ZlHksA5h-c_hX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry x="204.5" y="330" as="geometry">
+            <mxPoint x="160" y="330" as="sourcePoint" />
+            <mxPoint x="300" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2QYpI64ZlHksA5h-c_hX-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;exitX=0.855;exitY=0.855;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=15;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9hBKPDzoitwpIBdzFDQ7-26" target="2QYpI64ZlHksA5h-c_hX-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="532.5" y="270" as="sourcePoint" />
+            <mxPoint x="574.5" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2QYpI64ZlHksA5h-c_hX-7" value="rec" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="97.5" y="320" width="50" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
