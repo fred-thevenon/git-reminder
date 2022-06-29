@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T15:11:24.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5gqzJw2zvf1w8ThQ2mxo" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T15:13:32.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="z3FBN4wDucsQ6VMMm31C" version="20.0.4" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="simple gitflow">
     <mxGraphModel dx="2079" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
           <mxGeometry x="492.5" y="245" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9hBKPDzoitwpIBdzFDQ7-35" value="ma-feature-branch" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" parent="1" vertex="1">
-          <mxGeometry x="10" y="250" width="240" height="20" as="geometry" />
+          <mxGeometry x="10" y="250" width="160" height="20" as="geometry" />
         </mxCell>
         <UserObject label="&lt;a href=&quot;https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow&quot;&gt;https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow&lt;/a&gt;" link="https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow" id="9hBKPDzoitwpIBdzFDQ7-45">
           <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -112,6 +112,18 @@
         </mxCell>
         <mxCell id="2QYpI64ZlHksA5h-c_hX-7" value="rec" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="97.5" y="320" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2QYpI64ZlHksA5h-c_hX-11" value="commit 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2QYpI64ZlHksA5h-c_hX-12" value="commit 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2QYpI64ZlHksA5h-c_hX-13" value="correction code review" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2QYpI64ZlHksA5h-c_hX-14" value="squash commits" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="419.5" y="200" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
