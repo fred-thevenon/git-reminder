@@ -4,6 +4,17 @@
 ```bash
 git checkout -b nom-de-la-nouvelle-branche 
 ```
+# Delete branch
+
+Local branch
+```bash
+git branch -d feat/12345-ma-super-feature
+```
+
+Remote branch
+```bash
+git push origin --delete feat/12345-ma-super-feature
+```
 
 # Show email from config in repository
 
