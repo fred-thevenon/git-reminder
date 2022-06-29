@@ -1,4 +1,4 @@
-# Fancy commands
+# Git Command Toolbox
 
 # Show email from config in repository
 
