@@ -21,3 +21,9 @@ git push origin --delete feat/12345-ma-super-feature
 ```bash
 git config --show-origin --get user.email
 ```
+
+# Merge without commi merge
+
+```bash
+git merge feat/12345-ma-super-feature --no-ff
+```
