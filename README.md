@@ -25,5 +25,5 @@ git config --show-origin --get user.email
 # Merge without commi merge
 
 ```bash
-git merge feat/12345-ma-super-feature --no-ff
+git merge --ff-only feat/12345-ma-super-feature 
 ```
